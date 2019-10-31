@@ -1,0 +1,14 @@
+{
+  "name": "@thaynnara007/spotify-algumas-visualizacoes-sobre-algumas-de-suas-playl",
+  "main": "ae4fd5bf6558c9fd@64.js",
+  "version": "64.0.0",
+  "homepage": "https://observablehq.com/@thaynnara007/spotify-algumas-visualizacoes-sobre-algumas-de-suas-playl",
+  "author": {
+    "name": "thaynnara007",
+    "url": "https://observablehq.com/@thaynnara007"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
