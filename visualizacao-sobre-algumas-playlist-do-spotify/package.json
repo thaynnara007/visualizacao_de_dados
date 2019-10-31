@@ -1,0 +1,14 @@
+{
+  "name": "@thaynnara007/visualizacao-sobre-algumas-playlist-do-spotify",
+  "main": "393d9f7c810940ae@75.js",
+  "version": "75.0.0",
+  "homepage": "https://observablehq.com/@thaynnara007/visualizacao-sobre-algumas-playlist-do-spotify",
+  "author": {
+    "name": "thaynnara007",
+    "url": "https://observablehq.com/@thaynnara007"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
