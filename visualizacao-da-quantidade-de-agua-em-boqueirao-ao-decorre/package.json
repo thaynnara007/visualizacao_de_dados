@@ -1,0 +1,14 @@
+{
+  "name": "@thaynnara007/visualizacao-da-quantidade-de-agua-em-boqueirao-ao-decorre",
+  "main": "cf131c8b287dab25@23.js",
+  "version": "23.0.0",
+  "homepage": "https://observablehq.com/@thaynnara007/visualizacao-da-quantidade-de-agua-em-boqueirao-ao-decorre",
+  "author": {
+    "name": "thaynnara007",
+    "url": "https://observablehq.com/@thaynnara007"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
